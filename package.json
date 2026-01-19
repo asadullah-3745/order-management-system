@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
   "dependencies": {
     "dotenv": "^17.2.3"
   }
